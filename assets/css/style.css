@@ -12,7 +12,6 @@ body {
 .container-conteudo {
   display: flex;
   justify-content: center;
-  align-content: space-between;
   margin-top: 35px;
   gap: 120px;
   margin-bottom: 35px;
@@ -24,10 +23,10 @@ h1 {
 }
 .image-1 img {
   border-radius: 40px;
-  width: 580px;
+  width: 480px;
 }
 .image-2 img {
-  width: 650px;
+  width: 550px;
 }
 
 @media (max-width: 1024px) {
